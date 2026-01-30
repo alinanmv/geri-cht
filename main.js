@@ -1,7 +1,7 @@
-new fullpage('#fullpage', {
+new fullpage("#fullpage", {
   autoScrolling: true,
-  navigation: true,       
-  navigationPosition: 'right',
+  navigation: true,
+  navigationPosition: "right",
   scrollOverflow: true,
-  anchors: ['first', 'second', 'third', 'fourth'],
+  anchors: ["first", "second", "third", "fourth"],
 });
